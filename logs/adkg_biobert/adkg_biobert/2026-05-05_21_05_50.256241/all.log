@@ -1,0 +1,40 @@
+2026-05-05 21:05:50,599 [MainThread  ] [INFO ]  Datasets: ../data/spert_adkg/train.json, ../data/spert_adkg/dev.json
+2026-05-05 21:05:50,600 [MainThread  ] [INFO ]  Model type: spert
+2026-05-05 21:06:07,594 [MainThread  ] [INFO ]  Relation type count: 9
+2026-05-05 21:06:07,595 [MainThread  ] [INFO ]  Entity type count: 7
+2026-05-05 21:06:07,595 [MainThread  ] [INFO ]  Entities:
+2026-05-05 21:06:07,595 [MainThread  ] [INFO ]  No Entity=0
+2026-05-05 21:06:07,595 [MainThread  ] [INFO ]  disease=1
+2026-05-05 21:06:07,595 [MainThread  ] [INFO ]  drug=2
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  gene=3
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  method=4
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  mutation=5
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  other=6
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  Relations:
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  No Relation=0
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  abbreviation_for=1
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  associated_with=2
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  characteristic_of=3
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  help_diagnose=4
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  hyponym_of=5
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  risk_factor_of=6
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  treatment_for=7
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  treatment_target_for=8
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  Dataset: train
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  Document count: 5605
+2026-05-05 21:06:07,596 [MainThread  ] [INFO ]  Relation count: 3939
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Entity count: 14611
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Dataset: valid
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Document count: 1206
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Relation count: 788
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Entity count: 3099
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Updates per epoch: 5605
+2026-05-05 21:06:07,597 [MainThread  ] [INFO ]  Updates total: 28025
+2026-05-05 21:06:09,564 [MainThread  ] [INFO ]  Train epoch: 0
+2026-05-05 21:11:52,801 [MainThread  ] [INFO ]  Train epoch: 1
+2026-05-05 21:17:37,003 [MainThread  ] [INFO ]  Train epoch: 2
+2026-05-05 21:23:21,351 [MainThread  ] [INFO ]  Train epoch: 3
+2026-05-05 21:29:05,516 [MainThread  ] [INFO ]  Train epoch: 4
+2026-05-05 21:34:49,897 [MainThread  ] [INFO ]  Evaluate: valid
+2026-05-05 21:35:32,040 [MainThread  ] [INFO ]  Logged in: ../logs/adkg_biobert/adkg_biobert/2026-05-05_21:05:50.256241
+2026-05-05 21:35:32,041 [MainThread  ] [INFO ]  Saved in: ../models/adkg_biobert/adkg_biobert/2026-05-05_21:05:50.256241

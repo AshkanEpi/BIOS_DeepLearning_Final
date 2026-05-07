@@ -1,0 +1,70 @@
+{
+  "entities": {
+    "disease": {
+      "short": "disease",
+      "verbose": "disease"
+    },
+    "drug": {
+      "short": "drug",
+      "verbose": "drug"
+    },
+    "gene": {
+      "short": "gene",
+      "verbose": "gene"
+    },
+    "method": {
+      "short": "method",
+      "verbose": "method"
+    },
+    "mutation": {
+      "short": "mutation",
+      "verbose": "mutation"
+    },
+    "other": {
+      "short": "other",
+      "verbose": "other"
+    }
+  },
+  "relations": {
+    "abbreviation_for": {
+      "short": "abbreviation_for",
+      "verbose": "abbreviation_for",
+      "symmetric": false
+    },
+    "associated_with": {
+      "short": "associated_with",
+      "verbose": "associated_with",
+      "symmetric": false
+    },
+    "characteristic_of": {
+      "short": "characteristic_of",
+      "verbose": "characteristic_of",
+      "symmetric": false
+    },
+    "help_diagnose": {
+      "short": "help_diagnose",
+      "verbose": "help_diagnose",
+      "symmetric": false
+    },
+    "hyponym_of": {
+      "short": "hyponym_of",
+      "verbose": "hyponym_of",
+      "symmetric": false
+    },
+    "risk_factor_of": {
+      "short": "risk_factor_of",
+      "verbose": "risk_factor_of",
+      "symmetric": false
+    },
+    "treatment_for": {
+      "short": "treatment_for",
+      "verbose": "treatment_for",
+      "symmetric": false
+    },
+    "treatment_target_for": {
+      "short": "treatment_target_for",
+      "verbose": "treatment_target_for",
+      "symmetric": false
+    }
+  }
+}

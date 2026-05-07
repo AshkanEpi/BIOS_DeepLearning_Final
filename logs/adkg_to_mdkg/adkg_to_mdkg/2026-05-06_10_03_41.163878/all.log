@@ -1,0 +1,30 @@
+2026-05-06 10:03:41,777 [MainThread  ] [INFO ]  Dataset: ../data/spert_mdkg/test.json
+2026-05-06 10:03:41,777 [MainThread  ] [INFO ]  Model: spert
+2026-05-06 10:03:44,107 [MainThread  ] [INFO ]  Relation type count: 10
+2026-05-06 10:03:44,107 [MainThread  ] [INFO ]  Entity type count: 10
+2026-05-06 10:03:44,107 [MainThread  ] [INFO ]  Entities:
+2026-05-06 10:03:44,107 [MainThread  ] [INFO ]  No Entity=0
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Health_factors=1
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  disease=2
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  drug=3
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  gene=4
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  method=5
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  physiology=6
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  region=7
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  signs=8
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  symptom=9
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Relations:
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  No Relation=0
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  abbreviation_for=1
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  associated_with=2
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  characteristic_of=3
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  help_diagnose=4
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  hyponym_of=5
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  located_in=6
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  occurs_in=7
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  risk_factor_of=8
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  treatment_for=9
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Dataset: test
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Document count: 912
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Relation count: 1431
+2026-05-06 10:03:44,108 [MainThread  ] [INFO ]  Entity count: 3960

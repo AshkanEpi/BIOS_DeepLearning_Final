@@ -1,0 +1,44 @@
+2026-05-06 09:08:00,830 [MainThread  ] [INFO ]  Datasets: ../data/spert_mdkg/train.json, ../data/spert_mdkg/dev.json
+2026-05-06 09:08:00,830 [MainThread  ] [INFO ]  Model type: spert
+2026-05-06 09:08:15,151 [MainThread  ] [INFO ]  Relation type count: 10
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  Entity type count: 10
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  Entities:
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  No Entity=0
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  Health_factors=1
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  disease=2
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  drug=3
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  gene=4
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  method=5
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  physiology=6
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  region=7
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  signs=8
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  symptom=9
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  Relations:
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  No Relation=0
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  abbreviation_for=1
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  associated_with=2
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  characteristic_of=3
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  help_diagnose=4
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  hyponym_of=5
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  located_in=6
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  occurs_in=7
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  risk_factor_of=8
+2026-05-06 09:08:15,152 [MainThread  ] [INFO ]  treatment_for=9
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Dataset: train
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Document count: 4825
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Relation count: 7559
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Entity count: 20737
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Dataset: valid
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Document count: 941
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Relation count: 1570
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Entity count: 3963
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Updates per epoch: 4825
+2026-05-06 09:08:15,153 [MainThread  ] [INFO ]  Updates total: 24125
+2026-05-06 09:08:25,643 [MainThread  ] [INFO ]  Train epoch: 0
+2026-05-06 09:12:09,708 [MainThread  ] [INFO ]  Train epoch: 1
+2026-05-06 09:16:03,106 [MainThread  ] [INFO ]  Train epoch: 2
+2026-05-06 09:20:02,017 [MainThread  ] [INFO ]  Train epoch: 3
+2026-05-06 09:23:51,977 [MainThread  ] [INFO ]  Train epoch: 4
+2026-05-06 09:27:47,877 [MainThread  ] [INFO ]  Evaluate: valid
+2026-05-06 09:28:20,405 [MainThread  ] [INFO ]  Logged in: ../logs/mdkg_biobert/mdkg_biobert/2026-05-06_09:07:59.752887
+2026-05-06 09:28:20,405 [MainThread  ] [INFO ]  Saved in: ../models/mdkg_biobert/mdkg_biobert/2026-05-06_09:07:59.752887
